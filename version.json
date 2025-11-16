@@ -3,10 +3,9 @@
   "releaseDate": "2025-01-27",
   "downloadUrl": "https://github.com/ShayRed/MSM-Builder/releases/download/v1.0.0/",
   "files": [
-    "MSM Builder.exe",
-    "MSM Builder.exe.config",
+    "MSM.Builder.exe",
+    "MSM.Builder.exe.config",
     "Updater.exe"
   ],
   "changelog": "🎉 Erste Version - MSM Builder\\n\\n✨ Features:\\n• GR2 und MSM Datei-Auswahl\\n• Automatische DDS-Datei-Erkennung\\n• MSM-Datei Parsing und Manipulation\\n• Modernes Dark Theme Design\\n• RGB-Animation für 'By Shay' Text\\n• Discord und GitHub Links\\n• Automatisches Update-System"
 }
-
