@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "releaseDate": "2025-01-27",
-  "downloadUrl": "https://github.com/ShayRed/MSM-Builder/releases/download/v1.0.0/",
+  "downloadUrl": "https://github.com/ShayRed/MSM-Builder/releases/download/v1.1.0/",
   "files": [
     "MSM_Builder.exe",
     "MSM_Builder.exe.config",
     "Updater.exe"
   ],
-  "changelog": "🎉 Erste Version - MSM Builder\\n\\n✨ Features:\\n• GR2 und MSM Datei-Auswahl\\n• Automatische DDS-Datei-Erkennung\\n• MSM-Datei Parsing und Manipulation\\n• Modernes Dark Theme Design\\n• Discord und GitHub Links\\n• Automatisches Update-System"
+  "changelog": "🚀 Version 1.1.0 - MSM Builder\\n\\n✨ New Features:\\n• Multiple MSM File Processing (Optional)\\n• DDS File Selection Dialog when multiple DDS files found\\n• Improved DDS file detection\\n\\n🔧 Improvements:\\n• Better error handling\\n• Enhanced user experience\\n• All texts translated to English"
 }
 
